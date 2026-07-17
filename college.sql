@@ -16,3 +16,4 @@ VALUES
 
 -- RETRIEVEING THE DATA
 SELECT * FROM student;
+SELECT * FROM student WHERE marks>60;
